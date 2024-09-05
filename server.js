@@ -9,7 +9,7 @@ const PORT = process.env.PORT || 3000;
 
 // Middleware
 const corsOptions = {
-  origin: ['https://currency-converter-alpha-coral.vercel.app', 'http://localhost:4200'],
+  origin: ['https://currency-converter-sand-kappa.vercel.app', 'http://localhost:4200'],
   methods: ['GET', 'POST', 'PUT', 'DELETE', 'OPTIONS'],
   optionsSuccessStatus: 204
 };
