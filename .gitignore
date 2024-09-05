@@ -1,0 +1,30 @@
+# Node.js dependencies
+node_modules/
+
+# Log files
+*.log
+
+# Environment variables
+.env
+
+# Build output
+dist/
+
+# npm package lock
+package-lock.json
+
+# Operating System specific files
+.DS_Store
+Thumbs.db
+
+# Vercel specific files
+.vercel/
+
+# IDE and editor specific files
+.vscode/
+.idea/
+
+# Other temporary files
+*.tmp
+*.swp
+*.swo
